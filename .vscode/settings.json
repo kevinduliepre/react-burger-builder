@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.preferredDarkColorTheme": "Monokai Dimmed",
+    "editor.tokenColorCustomizations": {
+        "comments": "#525252"
+    },
+    "editor.wordWrap": "on",
+}
